@@ -6,7 +6,7 @@
     <RootNamespace>IL_A23_Modul_320_3.Semester</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>IL_A23_Modul_320_3.Semester._3._Lektion.Wiederholungen.Wiederholung1neu</StartupObject>
+    <StartupObject>IL_A23_Modul_320_3.Semester.Woche4.Wiederholungen.DoWhileSwitchBeispiel</StartupObject>
   </PropertyGroup>
 
 </Project>

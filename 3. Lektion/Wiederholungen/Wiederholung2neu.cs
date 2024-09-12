@@ -17,10 +17,10 @@ namespace IL_A23_Modul_320_3.Semester._3._Lektion.Wiederholungen
 
             // Berechnung des Rabatts basierend auf Menge und Kundentyp
             double rabatt = menge >= 50
-                            ? (kundentyp == "Premium" ? 0.20 : 0.10)
+                            ? kundentyp == "Premium" ? 0.20 : 0.10
                             : menge >= 20
-                            ? (kundentyp == "Premium" ? 0.15 : 0.05)
-                            : (kundentyp == "Premium" ? 0.10 : 0.0);
+                            ? kundentyp == "Premium" ? 0.15 : 0.05
+                            : kundentyp == "Premium" ? 0.10 : 0.0;
 
             // Berechnung des Endpreises
             double endpreis = menge * einzelpreis * (1 - rabatt);
