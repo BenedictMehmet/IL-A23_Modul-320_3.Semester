@@ -16,8 +16,8 @@ namespace IL_A23_Modul_320_3.Semester.Woche4.Übungen
     (Typumwandlung von int zu double)
     */
 
-        /*
-        Übung 2:
+     /*
+     Übung 2:
         Schreiben Sie ein Programm, das den Benutzer auffordert, eine Zahl einzugeben, die grösser als 100 ist.
         Verwenden Sie eine do-while-Schleife, um die Eingabe zu wiederholen, bis die Zahl grösser als 100 ist.
         Wandeln Sie die Zahl dann in einen String um und geben Sie den String aus.

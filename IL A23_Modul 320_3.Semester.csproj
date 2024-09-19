@@ -2,11 +2,11 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net8.0</TargetFramework>
+    <TargetFramework>net8.0-windows8.0</TargetFramework>
     <RootNamespace>IL_A23_Modul_320_3.Semester</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>IL_A23_Modul_320_3.Semester.Woche4.Wiederholungen.DoWhileSwitchBeispiel</StartupObject>
+    <StartupObject>IL_A23_Modul_320_3.Semester.Woche5.Übungen.Lösungen.Lösung1</StartupObject>
   </PropertyGroup>
 
 </Project>
