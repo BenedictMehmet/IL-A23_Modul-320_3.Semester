@@ -14,7 +14,7 @@ namespace IL_A23_Modul_320_3.Semester.KW51.Übungen
          * 
          * 2. Erstelle ein interface. Erkläre die Möglichkeiten von einem Interface
          * 
-         * 
+         * 3. Erstelle eine statische Methode und rufe sie auf. Erkläre den Unterschied zu Interface und abstrakte Klassen
          * 
          */
     }
