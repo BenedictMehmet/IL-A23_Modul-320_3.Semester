@@ -8,7 +8,9 @@ namespace IL_A23_Modul_320_3.Semester.KW51.Übungen
 {
     internal class Übungen
     {
-        /*
+        /*  Schriftliche Erklärungen!!!
+         * 
+         * 
          * 1. Erstelle eine abstrakte Klasse und erkläre mir, wie du die abstrakte Klasse verwendenw willst
          * 
          * 
