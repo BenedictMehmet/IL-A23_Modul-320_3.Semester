@@ -9,7 +9,7 @@ class GreetingHelper
     }
 }
 
-class Program
+class staticProgram
 {
     static void Main(string[] args)
     {
