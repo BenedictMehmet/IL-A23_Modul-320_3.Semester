@@ -2,11 +2,11 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net8.0-windows8.0</TargetFramework>
+    <TargetFramework>net8.0-windows10.0.18362.0</TargetFramework>
     <RootNamespace>IL_A23_Modul_320_3.Semester</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>staticProgram</StartupObject>
+    <StartupObject>IL_A23_Modul_320_3.Semester.KW02_25.Übungen.Lösungen.lösung4</StartupObject>
   </PropertyGroup>
 
 </Project>
