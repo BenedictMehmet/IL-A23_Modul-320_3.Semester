@@ -13,11 +13,6 @@ namespace IL_A23_Modul_320_3.Semester.KW02_25
         {
             Console.WriteLine("Geschwindigkeit: " + this.Geschwindigkeit);
         }
-
-        internal void Stop()
-        {
-            throw new NotImplementedException();
-        }
     }
 
     class methodenBeispiel1
